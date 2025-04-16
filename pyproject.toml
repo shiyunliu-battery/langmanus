@@ -26,6 +26,8 @@ dependencies = [
     "numpy>=2.2.3",
     "yfinance>=0.2.54",
     "langchain-deepseek>=0.1.2",
+    "azure-ai-inference>=1.0.0b1",
+    "azure-identity>=1.16.0",
 ]
 
 [project.optional-dependencies]
